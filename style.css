@@ -1,5 +1,55 @@
 *{ 
     margin:0px;
     padding:0px;
-    font-family:Arial
+    font-family:Arial;
+}
+a:hover{
+    color:red; 
+    font-weight: bold;
+}
+.tab{
+        display: inline-block;
+        margin-left: 4em;
+}
+#title{
+    font-size: 30px;
+    min-height:50px;
+    line-height: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bolder;
+}
+#nav{
+    min-height:50px;
+    text-align: center;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+#changes{
+text-align: center;
+margin-bottom: 40px;
+}
+#darktitle{
+    margin-left:2.5%;
+    margin-bottom: 10px;
+}
+#darkvision{
+margin-left:10%;
+margin-bottom:40px;
+}
+#inventorytitle{
+    margin-left: 2.5%;
+    margin-bottom:10px;
+}
+#inventory{
+    margin-left:10%;
+    margin-bottom:40px;
+}
+#longresttitle{
+    margin-left: 2.5%;
+    margin-bottom:10px;
+}
+#longrest{
+    margin-left:10%;
+    margin-bottom:40px;
 }
